@@ -11,8 +11,10 @@ You have a button for each of the four sorting algorithms.
 
 To run the app, please pull the source code.
 
-from the pull directory run 'npm install' to install all the dependencies
-then run 'npm run-script build'
-then run 'npm run-script run'
+From the pull directory run 'npm install' to install all the dependencies
 
-then in your browser connect to localhost:3000
+Then run 'npm run-script build'
+
+Then run 'npm run-script run'
+
+Then in your browser connect to localhost:3000
