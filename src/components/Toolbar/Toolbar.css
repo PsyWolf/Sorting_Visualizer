@@ -1,0 +1,10 @@
+.Toolbar {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    min-width: 180px;
+    background-color: #175151;
+    flex: 1;
+    border-right: 5px solid #38b200;
+    justify-content: space-around;
+}
